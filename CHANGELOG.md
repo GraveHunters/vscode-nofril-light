@@ -4,6 +4,10 @@ All notable changes to the "nofrills-light" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.3]
+
+- Settling on lighter selection color. 
+
 ## [1.0.2]
 
 - Fixed a spelling error in CHANGELOG.md file. *Oh no,...the dreaded spelling error!*

@@ -2,24 +2,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Nofrills</string>
+	<string>Nofrills-light</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#121212</string>
+				<string>#e4e4e4</string>
 				<key>caret</key>
-				<string>#eeeeee</string>
+				<string>#000000</string>
 				<key>foreground</key>
-				<string>#eeeeee</string>
+				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#eeeeee</string>
+				<string>#000000</string>
 				<key>lineHighlight</key>
-				<string>#262626</string>
+				<string>#dadada</string>
 				<key>selection</key>
-				<string>#121212</string>
+				<string>#e4e4e4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -43,15 +43,15 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#eeeeee</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 	</array>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.nofrills</string>
+	<string>theme.light.nofrills-light</string>
 	<key>author</key>
-	<string>David Url</string>
+	<string>Jonathan Batteas</string>
 </dict>
 </plist>

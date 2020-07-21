@@ -1,12 +1,12 @@
 {
-    "publisher": "urld",
+    "publisher": "sosukeinu",
     "repository": {
-        "url": "https://github.com/urld/vscode-nofrills.git",
+        "url": "https://github.com/sosukeinu/vscode-nofrills-light.git",
         "type": "git"
     },
-    "name": "nofrills",
-    "displayName": "Nofrills",
-    "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrils",
+    "name": "nofrills-light",
+    "displayName": "Nofrills-light",
+    "description": "no-frills syntax coloring theme based on https://github.com/robertmeta/nofrils, and forked from https://github.com/urld/vscode-nofrills",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.33.0"
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nofrills",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nofrills-color-theme.json"
+                "label": "Nofrills-light",
+                "uiTheme": "vs",
+                "path": "./themes/Nofrills-light-color-theme.json"
             }
         ]
     }

@@ -5,10 +5,10 @@
 		"editorCursor.foreground": "#000000",
 		"editor.foreground": "#000000",
 		"editorWhitespace.foreground": "#000000",
-		"editor.lineHighlightBackground": "#dadada",
-		"editor.selectionBackground": "#dadada",
+		"editor.lineHighlightBackground": "#bababa",
+		"editor.selectionBackground": "#bababa",
 		"editor.selectionForeground": "#000000",
-		"editor.selectionHighlightBackground": "#dadada"
+		"editor.selectionHighlightBackground": "#bababa"
 	},
 	"name": "Nofrills-light"
 }
